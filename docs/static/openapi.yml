@@ -42935,6 +42935,8 @@ definitions:
     description: >-
       MsgCreateVestingAccountResponse defines the Msg/CreateVestingAccount
       response type.
+  houshengbo.checkers.checkers.MsgCreatePostResponse:
+    type: object
   houshengbo.checkers.checkers.Params:
     type: object
     description: Params defines the parameters for the module.
